@@ -49,6 +49,7 @@ pip --version
 **Install pyWinhook**
 
 1) 🔧 Fix: Install SWIG & Build Tools
+
 1️⃣ Install SWIG
 
 You need to install SWIG manually:
