@@ -25,7 +25,7 @@ python keylogger.py local
 
     If using email/FTP, logs will be sent to the configured destination.
     
-🔹Fixing Errors :
+# Fixing Errors :
 
 **Install Pip, Swig, PyWin32 andd PyHook as Requirements before running the file**
 
