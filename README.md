@@ -11,11 +11,11 @@ This project is a Windows-based keylogger designed for cybersecurity professiona
 
 🔹 Installation
 
-pip install pyHook pythoncom
+`pip install pyHook pythoncom`
 
 🔹 Run the Keylogger (Ethically)
 
-python keylogger.py local
+`python keylogger.py local`
 
 🔹 Retrieve Logs
 
