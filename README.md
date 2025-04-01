@@ -93,6 +93,8 @@ swig -version
 ```
 
 If SWIG is installed correctly, it should display the version.
+
+
 4️⃣ Try Installing pyWinhook Again
 
 Once SWIG is installed, retry installing pyWinhook:
